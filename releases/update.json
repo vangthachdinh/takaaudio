@@ -1,0 +1,13 @@
+{
+  "android": {
+    "version": "1.0.0",
+    "versionCode": 100,
+    "minVersion": "1.0.0",
+    "url": "https://github.com/vangthachdinh/takaaudio/releases/download/1.0.0/app-audiobooks-v1.0.0.apk",
+    "changelog": "",
+    "releaseDate": "2024-01-30T10:00:00Z",
+    "fileSize": "79MB",
+    "sha256": "",
+    "forceUpdate": false
+  }
+}
